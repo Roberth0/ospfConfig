@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ospfConfig/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ospfConfig/static/js/main.fae8ba0f.chunk.js",
+    "main.js.map": "/ospfConfig/static/js/main.fae8ba0f.chunk.js.map",
+    "runtime-main.js": "/ospfConfig/static/js/runtime-main.d486c4e8.js",
+    "runtime-main.js.map": "/ospfConfig/static/js/runtime-main.d486c4e8.js.map",
+    "static/js/2.e0d2fe03.chunk.js": "/ospfConfig/static/js/2.e0d2fe03.chunk.js",
+    "static/js/2.e0d2fe03.chunk.js.map": "/ospfConfig/static/js/2.e0d2fe03.chunk.js.map",
+    "index.html": "/ospfConfig/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ospfConfig/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e0d2fe03.chunk.js.LICENSE.txt": "/ospfConfig/static/js/2.e0d2fe03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d486c4e8.js",
+    "static/js/2.e0d2fe03.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fae8ba0f.chunk.js"
+  ]
+}
