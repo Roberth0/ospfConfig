@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ospfConfig/static/css/main.9a2e7448.chunk.css",
-    "main.js": "/ospfConfig/static/js/main.9ecf2e62.chunk.js",
-    "main.js.map": "/ospfConfig/static/js/main.9ecf2e62.chunk.js.map",
+    "main.css": "/ospfConfig/static/css/main.7e8b4dae.chunk.css",
+    "main.js": "/ospfConfig/static/js/main.a176b2c8.chunk.js",
+    "main.js.map": "/ospfConfig/static/js/main.a176b2c8.chunk.js.map",
     "runtime-main.js": "/ospfConfig/static/js/runtime-main.d486c4e8.js",
     "runtime-main.js.map": "/ospfConfig/static/js/runtime-main.d486c4e8.js.map",
-    "static/js/2.3de815ae.chunk.js": "/ospfConfig/static/js/2.3de815ae.chunk.js",
-    "static/js/2.3de815ae.chunk.js.map": "/ospfConfig/static/js/2.3de815ae.chunk.js.map",
+    "static/js/2.85d84608.chunk.js": "/ospfConfig/static/js/2.85d84608.chunk.js",
+    "static/js/2.85d84608.chunk.js.map": "/ospfConfig/static/js/2.85d84608.chunk.js.map",
     "index.html": "/ospfConfig/index.html",
-    "static/css/main.9a2e7448.chunk.css.map": "/ospfConfig/static/css/main.9a2e7448.chunk.css.map",
-    "static/js/2.3de815ae.chunk.js.LICENSE.txt": "/ospfConfig/static/js/2.3de815ae.chunk.js.LICENSE.txt"
+    "static/css/main.7e8b4dae.chunk.css.map": "/ospfConfig/static/css/main.7e8b4dae.chunk.css.map",
+    "static/js/2.85d84608.chunk.js.LICENSE.txt": "/ospfConfig/static/js/2.85d84608.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d486c4e8.js",
-    "static/js/2.3de815ae.chunk.js",
-    "static/css/main.9a2e7448.chunk.css",
-    "static/js/main.9ecf2e62.chunk.js"
+    "static/js/2.85d84608.chunk.js",
+    "static/css/main.7e8b4dae.chunk.css",
+    "static/js/main.a176b2c8.chunk.js"
   ]
 }
